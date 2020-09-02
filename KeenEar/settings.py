@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'KeenEar.components.users',
+    'KeenEar.components.audio',
 ]
 
 MIDDLEWARE = [
